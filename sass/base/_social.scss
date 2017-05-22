@@ -1,0 +1,37 @@
+
+.social img {
+  height: 50px;
+  width: 50px;
+  padding-top: 20px;
+}
+
+.social ul {
+  font-family: $font-family;
+  font-size: 15pt;
+  font-style: normal;
+  font-variant: normal;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 20%;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+  background-color: $color_blue;
+}
+
+.menu li a {
+  display: block;
+  color: $black;
+  padding: 8px 16px;
+  text-decoration: none;
+  }
+.social li a {
+  height: 50px;
+  width: 50px;
+  padding-top: 10px;
+}
+
+.social a:hover {
+  display: none;
+}

@@ -1,0 +1,39 @@
+
+  .footer {
+    background-color: $color_blue;
+    color: $white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: right;
+
+  }
+
+  .footer p {
+    padding-right: 20px;
+    text-align: left;
+  }
+
+  .footer table {
+    float: right;
+    background-color: $color_blue;
+    color: $white;
+    bottom: 0;
+    text-align: right;
+    padding: 0;
+
+  }
+
+  .footer td {
+    background-color: $color_blue;
+    color: $white;
+
+
+  }
+
+  .footer img {
+    height: 50px;
+    width: 50px;
+    padding: 0;
+
+  }

@@ -1,0 +1,16 @@
+  body {
+    margin: 0;
+    font-size: 1.2em; // currently ems cause chrome bug misinterpreting rems on body element
+    line-height: 1.6;
+    font-weight: 400;
+    font-family: $font-family;
+    color: $black;
+    background-color: $color_gray;
+  }
+
+  .wrapper {
+    margin-left: 25%;
+    padding: 1px 16px;
+    height: auto;
+
+  }
